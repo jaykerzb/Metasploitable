@@ -13,4 +13,5 @@ I found that the version of ftp running was delivered with a backdoor vulnerabil
 - I entered the username totalynotabackdoor:). The smiley face ":)" at the end of the username is what activates the backdoor. It allows a user to open a listening port on 6200 to access the machine with no login necessary, as shown below:
 <img width="718" alt="RunningExploit" src="https://github.com/user-attachments/assets/72f48182-c1eb-4525-9031-06e2fe022ba6">
 <img width="723" alt="Infiltration" src="https://github.com/user-attachments/assets/2fd97c74-b970-4341-9072-37d70ba5d72e">
+
 After completing this, I had full telnet access to the remote system, allowing me to do whatever I wanted with the machine.
